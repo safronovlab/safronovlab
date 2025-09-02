@@ -110,12 +110,16 @@ Now at <strong>Safronov Labs</strong> I deliver scoped MVPs in <strong>48 hours<
 
 ---
 
-## Request a 48h MVP
+## ⚡ Request a 48h MVP
 <a id="request-mvp"></a>
 
-Send me:  
-1) link to a sample doc (PDF/Notion/Confluence)  
-2) 3–5 typical questions  
-3) where results should go (Slack/Email/Sheet)
+**Send me:**
+- 📄 A link to a sample doc (PDF / Notion / Confluence)
+- ❓ 3–5 typical questions
+- 📬 Where results should go (Slack / Email / Sheet)
 
-👉 <a href="UPWORK_URL">Hire me on Upwork</a> · ✉️ <a href="mailto:EMAIL">EMAIL</a>
+<p align="left">
+  👉 <a href="UPWORK_URL"><img alt="Hire me on Upwork" src="https://img.shields.io/badge/Hire%20me%20on-Upwork-17a500?logo=upwork&logoColor=white"></a>
+  &nbsp;·&nbsp;
+  ✉️ <a href="mailto:EMAIL?subject=48h%20MVP%20request&body=Hi%2C%20here%20is%20a%20link%20to%20our%20doc%20and%203-5%20questions."><img alt="Contact via Email" src="https://img.shields.io/badge/Contact-Email-0ea5e9"></a>
+</p>
