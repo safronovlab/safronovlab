@@ -16,6 +16,7 @@
 - Clean README + <code>.env.example</code>
 - Optional <strong>n8n</strong> workflow export (<code>workflows/*.json</code>)
 - 7-day support for the agreed scope
+- NDA on request · your data stays yours (self-hosted option available)
 
 ### Process (48h MVP)
 1. 15–30 min discovery → measurable KPI  
@@ -54,7 +55,8 @@ Now at <strong>Safronov Labs</strong> I deliver scoped MVPs in <strong>48 hours<
 - Best fits: support/FAQ with citations, lead-qualifier agents, PDF→Sheet extraction, automations for Notion/HubSpot/Sheets  
 - Ask me about: Docker-first deploys, n8n workflows, Qdrant/pgvector, structured outputs & guardrails  
 - **Timezone:** Europe/Paris (UTC+2) · **Typical reply:** within 2–6 h on business days
-
+**Availability:** 1 new project slot this week
+**Availability:** 1 new project slot this week
 ---
 
 ## 🔧 Tech Stack
