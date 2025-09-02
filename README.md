@@ -1,4 +1,4 @@
-<h1 align="left">Safronov Labs — AI Automation</h1>
+<h1 align="left">🚀 Safronov Labs — AI Automation</h1>
 <p align="left">
   <strong>Python · FastAPI · n8n · LLM Agents/RAG · Docker-first · 48h MVPs</strong><br>
   <a href="UPWORK_URL">🟢 Hire me on Upwork</a> · <a href="mailto:EMAIL">✉️ Contact</a>
@@ -7,44 +7,52 @@
 ---
 
 ## What I Deliver
-- **RAG chatbots** over your docs — answers in <strong>3–5 s</strong> with <strong>citations</strong>
-- **Agentic workflows** (scrape → Google Sheets/CRM → Email/Slack) via <strong>n8n + FastAPI</strong>
-- **Slack/Telegram assistants** with memory & roles
+- 🤖 **RAG chatbots** over your docs — answers in <strong>3–5 s</strong> with <strong>citations</strong>
+- 🔧 **Agentic workflows** (scrape → Google Sheets/CRM → Email/Slack) via <strong>n8n + FastAPI</strong>
+- 💬 **Slack/Telegram assistants** with memory & roles
 
 ### Every Delivery Includes
-- One-click <strong>Docker</strong> run (no vendor lock)
-- Clean README + <code>.env.example</code>
-- Optional <strong>n8n</strong> workflow export (<code>workflows/*.json</code>)
-- 7-day support for the agreed scope
-- NDA on request · your data stays yours (self-hosted option available)
+- 🐳 One-click <strong>Docker</strong> run (no vendor lock)
+- 📚 Clean README + <code>.env.example</code>
+- 🔁 Optional <strong>n8n</strong> workflow export (<code>workflows/*.json</code>)
+- 🛟 7-day support for the agreed scope
+- 🔒 NDA on request · your data stays yours (self-hosted option available)
 
 ### Process (48h MVP)
-1. 15–30 min discovery → measurable KPI  
-2. Working MVP in <strong>1–2 days</strong> on your sample data  
-3. Handover: Docker one-click + docs + support window
+1. ⏱️ 15–30 min discovery → measurable KPI  
+2. 🧩 Working MVP in <strong>1–2 days</strong> on your sample data  
+3. 📦 Handover: Docker one-click + docs + support window
 
 ---
 
-## Quick to Buy — Fixed-Price Packs
-**RAG Chatbot (FastAPI + Qdrant)**  
-- Starter **$129** — 1 source (PDF/Notion), one-click Docker, citations  
+## 🛍️ Quick to Buy — Fixed-Price Packs
+
+**📄 RAG Chatbot (FastAPI + Qdrant)**  
+- Starter **$119** — 1 source (PDF/Notion), one-click Docker, citations  
 - Standard **$259** — up to 3 sources, re-index, basic UI  
 - Pro **$459** — 5+ sources, auth, setup notes  
 → <a href="UPWORK_URL">Buy on Upwork</a>
 
-**AI Agent + n8n (scrape → Sheet → Email/Slack)**  
-- Starter **$129** — 1 tool (e.g., GSheet)  
+**⚙️ AI Agent + n8n (scrape → Sheet → Email/Slack)**  
+- Starter **$119** — 1 tool (e.g., GSheet)  
 - Standard **$259** — up to 3 tools (GSheet + Gmail + Slack)  
 - Pro **$559** — 5 tools, logging & alerts  
 → <a href="UPWORK_URL">Buy on Upwork</a>
 
-**Slack/Telegram Assistant**  
-- Starter **$169** — FAQ + 1 integration  
+**💬 Slack/Telegram Assistant**  
+- Starter **$159** — FAQ + 1 integration  
 - Standard **$459** — memory, 2 integrations  
 - Pro **$859** — roles, 4 integrations, deploy  
 → <a href="UPWORK_URL">Buy on Upwork</a>
 
-> **Guarantee:** if the MVP from the agreed scope doesn’t work on your sample data — you don’t pay.
+**🧾 Lead Capture → Google Sheet + Alert (n8n + Webhook)** — <em>budget pack</em>  
+- Starter **$69** — 1 source (one form/webhook) → 1 Google Sheet + 1 alert (Slack <strong>or</strong> Email)  
+- Standard **$129** — up to 2 sources → Sheet + both alerts (Slack <strong>and</strong> Email), basic validation, dedupe by email  
+- Pro **$249** — up to 3 sources, optional FastAPI endpoint, retries/timeouts, extended logs, deploy to Render/Railway  
+→ <a href="UPWORK_URL">Buy on Upwork</a>
+
+> 🎯 **Guarantee:** if the MVP from the agreed scope doesn’t work on your sample data — you don’t pay.  
+> 💡 Launch promo (first 3 clients): **–$20 via Custom Offer** for RAG/Agent/Assistant · **–$10** for Lead Capture.
 
 ---
 
@@ -52,14 +60,15 @@
 **AI Automation Engineer.** **5 years of commercial Python (mid-level):** production FastAPI services, integrations, bots, data pipelines.  
 Now at <strong>Safronov Labs</strong> I deliver scoped MVPs in <strong>48 hours</strong>.
 
-- Best fits: support/FAQ with citations, lead-qualifier agents, PDF→Sheet extraction, automations for Notion/HubSpot/Sheets  
-- Ask me about: Docker-first deploys, n8n workflows, Qdrant/pgvector, structured outputs & guardrails  
-- **Timezone:** Europe/Paris (UTC+2) · **Typical reply:** within 2–6 h on business days
-**Availability:** 1 new project slot this week
-**Availability:** 1 new project slot this week
+- ✅ Best fits: support/FAQ with citations, lead-qualifier agents, PDF→Sheet extraction, automations for Notion/HubSpot/Sheets  
+- 🧰 Ask me about: Docker-first deploys, n8n workflows, Qdrant/pgvector, structured outputs & guardrails  
+- 🌍 <strong>Timezone:</strong> Europe/Paris (UTC+2) · ⏳ <strong>Typical reply:</strong> within 2–6 h on business days  
+- 🔓 <strong>Availability:</strong> 1 new project slot this week
+
 ---
 
-## 🔧 Tech Stack
+## 🛠️ Tech Stack
+
 <table>
   <tr>
     <td><strong>Core</strong></td>
