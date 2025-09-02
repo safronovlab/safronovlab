@@ -27,21 +27,21 @@
 
 ## Quick to Buy — Fixed-Price Packs
 **RAG Chatbot (FastAPI + Qdrant)**  
-- Starter **$149** — 1 source (PDF/Notion), one-click Docker, citations  
-- Standard **$299** — up to 3 sources, re-index, basic UI  
-- Pro **$499** — 5+ sources, auth, setup notes  
+- Starter **$129** — 1 source (PDF/Notion), one-click Docker, citations  
+- Standard **$259** — up to 3 sources, re-index, basic UI  
+- Pro **$459** — 5+ sources, auth, setup notes  
 → <a href="UPWORK_URL">Buy on Upwork</a>
 
 **AI Agent + n8n (scrape → Sheet → Email/Slack)**  
-- Starter **$149** — 1 tool (e.g., GSheet)  
-- Standard **$299** — up to 3 tools (GSheet + Gmail + Slack)  
-- Pro **$599** — 5 tools, logging & alerts  
+- Starter **$129** — 1 tool (e.g., GSheet)  
+- Standard **$259** — up to 3 tools (GSheet + Gmail + Slack)  
+- Pro **$559** — 5 tools, logging & alerts  
 → <a href="UPWORK_URL">Buy on Upwork</a>
 
 **Slack/Telegram Assistant**  
-- Starter **$199** — FAQ + 1 integration  
-- Standard **$499** — memory, 2 integrations  
-- Pro **$899** — roles, 4 integrations, deploy  
+- Starter **$169** — FAQ + 1 integration  
+- Standard **$459** — memory, 2 integrations  
+- Pro **$859** — roles, 4 integrations, deploy  
 → <a href="UPWORK_URL">Buy on Upwork</a>
 
 > **Guarantee:** if the MVP from the agreed scope doesn’t work on your sample data — you don’t pay.
