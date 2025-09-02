@@ -58,33 +58,44 @@ Now at <strong>Safronov Labs</strong> I deliver scoped MVPs in <strong>48 hours<
 ---
 
 ## 🔧 Tech Stack
-<div align="left">
-
-<strong>Core</strong><br>
-&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3.11-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-Ready-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-One--Click-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-<strong>RAG & LLM</strong><br>
-&nbsp;&nbsp;![LangChain](https://img.shields.io/badge/LangChain-Tools-2C2C2C?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-Retrieval-111827?style=for-the-badge)
-![Qdrant](https://img.shields.io/badge/Qdrant-Vector%20DB-FF6B6B?style=for-the-badge)
-![pgvector](https://img.shields.io/badge/pgvector-Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Chroma](https://img.shields.io/badge/Chroma-DB-333333?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-<strong>Orchestration & Automation</strong><br>
-&nbsp;&nbsp;![n8n](https://img.shields.io/badge/n8n-Workflows-F03?style=for-the-badge&logo=n8n&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-Automation-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-<strong>Data & Messaging</strong><br>
-&nbsp;&nbsp;![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-Cache-D82C20?style=for-the-badge&logo=redis&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-Apps-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-
-</div>
+<table>
+  <tr>
+    <td><strong>Core</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3.11-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+      <img src="https://img.shields.io/badge/FastAPI-Ready-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-One--Click-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-CI-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>RAG &amp; LLM</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/LangChain-Tools-2C2C2C?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/LlamaIndex-Retrieval-111827?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Qdrant-Vector%20DB-FF6B6B?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/pgvector-Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Chroma-DB-333333?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Orchestration &amp; Automation</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/n8n-Workflows-F03?style=for-the-badge&logo=n8n&logoColor=white" />
+      <img src="https://img.shields.io/badge/Playwright-Automation-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data &amp; Messaging</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-DB-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-Cache-D82C20?style=for-the-badge&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Slack-Apps-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+      <img src="https://img.shields.io/badge/Telegram-Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
