@@ -1,14 +1,22 @@
-<p align="left">
-  <img src="assets/safronov-hero-flat-1000x240.webp"
-       alt="Safronov Labs — AI Automation · Python · FastAPI · n8n · RAG"
-       width="900">
-</p>
+
 <h1 align="left">🚀 Safronov Labs — AI Automation</h1>
 <p align="left">
   <strong>Python · FastAPI · n8n · LLM Agents/RAG · Docker-first · 48h MVPs</strong><br>
   <a href="UPWORK_URL">🟢 Hire me on Upwork</a> · <a href="mailto:EMAIL">✉️ Contact</a>
 </p>
+<h1 align="left">🚀 Safronov Labs — AI Automation</h1>
+<p><strong>Python · FastAPI · n8n · LLM Agents/RAG · Docker-first · 48h MVPs</strong></p>
 
+<p>
+  <a href="UPWORK_URL">
+    <img src="https://img.shields.io/badge/Hire%20me-Upwork-brightgreen?logo=upwork" alt="Hire me on Upwork">
+  </a>
+  <a href="mailto:EMAIL">
+    <img src="https://img.shields.io/badge/Contact-Email-informational?logo=gmail" alt="Contact via email">
+  </a>
+</p>
+
+<p>Docker one-click · Citations · n8n export · 7-day support · NDA</p>
 ---
 ## What I Deliver
 - 🤖 **RAG chatbots** over your docs — answers in <strong>3–5 s</strong> with <strong>citations</strong>
