@@ -12,7 +12,7 @@
 
 <p><em>Availability:</em> 1 project slot this week · <em>Guarantee:</em> MVP from the agreed scope works on your sample data — or you don’t pay.</p>
 
-**Navigation:** [Services](#what-i-deliver) · [Process](#process-48h-mvp) · [SLA](#-acceptance--sla-applies-to-all-deliveries) · [Packs](#-quick-to-buy--fixed-price-packs) · [About](#-about-me) · [Tech Stack](#-tech-stack) · [Request](#-request-a-48h-mvp)
+**Navigation:** [Services](#what-i-deliver) · [Process](#process-48h-mvp) · [SLA](#acceptance--sla-applies-to-all-deliveries) · [Security](#security--compliance-by-design) · [Packs](#-quick-to-buy--fixed-price-packs) · [About](#-about-me) · [Tech Stack](#-tech-stack) · [Request](#-request-a-48h-mvp)
 
 ---
 
@@ -46,6 +46,17 @@
 - **Cost guardrail:** estimated cost per 100 requests in README
 
 <sub>**Custom KPI** (set on discovery): e.g., Deflection ≥ 30% vs. baseline; FRT ≤ 2 min; Retrieval@5 ≥ 0.85 on your 30-Q test set.</sub>
+
+---
+
+## 🔒 Security & Compliance (by design)
+- 🎓 **Education:** Specialist in **Information Security** (ИБ).  
+- **Least-privilege tokens**; no hard-coded secrets; **`.env` only**.  
+- **Input validation & sanitization**, structured outputs, guardrails.  
+- **Auth**: API keys / JWT / optional **SSO** (Keycloak/Auth0) for Pro packs.  
+- **Rate-limit, retries, timeouts**, error logs with PII masking.  
+- **Data minimization**; self-hosting as default; GDPR-friendly practices.  
+- Optionally: basic **RBAC**, audit logs, and cost/usage dashboards.
 
 ---
 
@@ -86,6 +97,7 @@
 
 ## 💫 About Me
 **AI Automation Engineer.** **5 years of commercial Python (mid-level):** production FastAPI services, integrations, bots, data pipelines.  
+**🎓 Specialist in Information Security** — I design automation that is **secure by default**.  
 Now at <strong>Safronov Labs</strong> I deliver scoped MVPs in <strong>48 hours</strong>.
 
 - ✅ Best fits: support/FAQ with citations, lead-qualifier agents, PDF→Sheet extraction, automations for Notion/HubSpot/Sheets  
@@ -95,8 +107,55 @@ Now at <strong>Safronov Labs</strong> I deliver scoped MVPs in <strong>48 hours<
 ---
 
 ## 🛠️ Tech Stack
-Python · FastAPI · n8n · Docker · Qdrant/pgvector · LangChain/LlamaIndex ·  
-PostgreSQL · Redis · Slack/Telegram · Playwright · GitHub Actions
+<table>
+  <tr>
+    <td><strong>Core</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3.11-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+      <img src="https://img.shields.io/badge/FastAPI-Ready-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-One--Click-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>RAG &amp; LLM</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/LangChain-Tools-2C2C2C?style=for-the-badge&logo=chainlink" />
+      <img src="https://img.shields.io/badge/LlamaIndex-Retrieval-111827?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Qdrant-Vector%20DB-FF6B6B?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/pgvector-Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Chroma-DB-333333?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Orchestration</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/n8n-Workflows-F03?style=for-the-badge&logo=n8n&logoColor=white" />
+      <img src="https://img.shields.io/badge/Playwright-Automation-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAPI-Schema-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data &amp; Messaging</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-DB-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-Cache-D82C20?style=for-the-badge&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Slack-Apps-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+      <img src="https://img.shields.io/badge/Telegram-Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Security &amp; Quality</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/SSO-Keycloak-39477F?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Auth0-Integration-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
+      <img src="https://img.shields.io/badge/JWT-Tokens-000000?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Snyk-SAST-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
+      <img src="https://img.shields.io/badge/OWASP-ASVS-000000?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -114,4 +173,4 @@ PostgreSQL · Redis · Slack/Telegram · Playwright · GitHub Actions
 
 ---
 
-<sub><em>RU note:</em> Делаю MVP-автоматизации за 48 часов (FastAPI, n8n, RAG). Фикс-пакеты, Docker one-click, экспорт n8n, поддержка 7 дней. Пишите на Upwork или email.</sub>
+<sub><em>RU note:</em> Делаю MVP-автоматизации за 48 часов (FastAPI, n8n, RAG). Системная безопасность «из коробки» (ИБ-образование), Docker one-click, экспорт n8n, поддержка 7 дней. Пишите на Upwork или email.</sub>
