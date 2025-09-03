@@ -1,6 +1,6 @@
 <h1 align="left">🚀 Safronov Labs — AI Automation</h1>
 <p align="left">
-  <img src="assets/ИМЯ_ТВОЕГО_ФАЙЛА.png"
+  <img src="assets/1.png"
        alt="Safronov Labs — AI Automation · Python · FastAPI · n8n · RAG"
        width="1000">
 </p>
