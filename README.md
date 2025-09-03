@@ -1,5 +1,10 @@
 <h1 align="left">🚀 Safronov Labs — AI Automation</h1>
 <p align="left">
+  <img src="assets/ИМЯ_ТВОЕГО_ФАЙЛА.png"
+       alt="Safronov Labs — AI Automation · Python · FastAPI · n8n · RAG"
+       width="1000">
+</p>
+<p align="left">
   <strong>Python · FastAPI · n8n · LLM Agents/RAG · Docker-first · 48h MVPs</strong><br>
   <a href="UPWORK_URL">🟢 Hire me on Upwork</a> · <a href="mailto:EMAIL">✉️ Contact</a>
 </p>
