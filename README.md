@@ -1,16 +1,15 @@
 <h1 align="left">🚀 Safronov Labs — AI Automation</h1>
 <p align="left">
-  <img src="assets/1.png"
-       alt="Safronov Labs — AI Automation · Python · FastAPI · n8n · RAG"
-       width="1000">
-</p>
-<p align="left">
   <strong>Python · FastAPI · n8n · LLM Agents/RAG · Docker-first · 48h MVPs</strong><br>
   <a href="UPWORK_URL">🟢 Hire me on Upwork</a> · <a href="mailto:EMAIL">✉️ Contact</a>
 </p>
 
 ---
-
+<p align="left">
+  <img src="assets/1.png"
+       alt="Safronov Labs — AI Automation · Python · FastAPI · n8n · RAG"
+       width="1000">
+</p>
 ## What I Deliver
 - 🤖 **RAG chatbots** over your docs — answers in <strong>3–5 s</strong> with <strong>citations</strong>
 - 🔧 **Agentic workflows** (scrape → Google Sheets/CRM → Email/Slack) via <strong>n8n + FastAPI</strong>
