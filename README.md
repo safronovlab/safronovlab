@@ -1,7 +1,7 @@
 <p align="left">
-  <img src="assets/1.png"
+  <img src="assets/safronov-hero-flat-1000x240.webp"
        alt="Safronov Labs — AI Automation · Python · FastAPI · n8n · RAG"
-       width="500">
+       width="900">
 </p>
 <h1 align="left">🚀 Safronov Labs — AI Automation</h1>
 <p align="left">
