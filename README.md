@@ -1,5 +1,6 @@
 <div align="center">
-# OLEG SAFRONOV
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=72&duration=1&pause=99999&color=0A0A0A&center=true&vCenter=true&width=700&height=100&lines=OLEG+SAFRONOV" alt="Oleg Safronov" />
 
 **Senior Backend · AI Integration**
 
@@ -28,7 +29,12 @@
 
 ---
 
-## About
+<a name="about"></a>
+<div align="center">
+
+![About](https://img.shields.io/badge/ABOUT-0A0A0A?style=for-the-badge)
+
+</div>
 
 Senior Backend engineer in Python with 4 years of commercial experience and 5 completed projects for clients in the USA, UK, Canada, and Poland. Full cycle: design, code, tests, deployment, monitoring, support. Documentation and tests come first, then code. Every project ships with a runbook.
 
@@ -36,85 +42,137 @@ Specialty is AI/LLM integration: Anthropic Claude through Claude API, Claude Cod
 
 ---
 
-## Technology stack
+<a name="technology-stack"></a>
+<div align="center">
 
-### Backend
+![Technology Stack](https://img.shields.io/badge/TECHNOLOGY_STACK-0A0A0A?style=for-the-badge)
 
-![Python](https://img.shields.io/badge/Python_3.12-0A0A0A?style=for-the-badge&logo=python&logoColor=3776AB)
-![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Django](https://img.shields.io/badge/Django-0A0A0A?style=for-the-badge&logo=django&logoColor=44B78B)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0A0A0A?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![asyncpg](https://img.shields.io/badge/asyncpg-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Pydantic](https://img.shields.io/badge/Pydantic_v2-0A0A0A?style=for-the-badge&logo=pydantic&logoColor=E92063)
-![aiogram](https://img.shields.io/badge/aiogram_3-0A0A0A?style=for-the-badge&logo=telegram&logoColor=2CA5E0)
+</div>
 
-### AI · Agents
+<table align="center">
+<tr><th colspan="4" align="center">Backend</th></tr>
+<tr align="center">
+<td><img src="https://img.shields.io/badge/Python_3.12-0A0A0A?style=for-the-badge&logo=python&logoColor=3776AB" /></td>
+<td><img src="https://img.shields.io/badge/FastAPI-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=009688" /></td>
+<td><img src="https://img.shields.io/badge/Django-0A0A0A?style=for-the-badge&logo=django&logoColor=44B78B" /></td>
+<td><img src="https://img.shields.io/badge/aiogram_3-0A0A0A?style=for-the-badge&logo=telegram&logoColor=2CA5E0" /></td>
+</tr>
+<tr align="center">
+<td><img src="https://img.shields.io/badge/SQLAlchemy-0A0A0A?style=for-the-badge&logo=sqlalchemy&logoColor=white" /></td>
+<td><img src="https://img.shields.io/badge/asyncpg-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=4169E1" /></td>
+<td><img src="https://img.shields.io/badge/Pydantic_v2-0A0A0A?style=for-the-badge&logo=pydantic&logoColor=E92063" /></td>
+<td><img src="https://img.shields.io/badge/uvloop-0A0A0A?style=for-the-badge" /></td>
+</tr>
 
-![Anthropic](https://img.shields.io/badge/Anthropic_Claude-0A0A0A?style=for-the-badge&logo=anthropic&logoColor=CC785C)
-![Claude Code](https://img.shields.io/badge/Claude_Code-0A0A0A?style=for-the-badge&logo=anthropic&logoColor=CC785C)
-![Agent SDK](https://img.shields.io/badge/Agent_SDK-0A0A0A?style=for-the-badge&logo=anthropic&logoColor=CC785C)
-![MCP](https://img.shields.io/badge/MCP_Servers-0A0A0A?style=for-the-badge)
-![Multi-agent](https://img.shields.io/badge/Multi--agent-0A0A0A?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG_·_pgvector-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+<tr><th colspan="4" align="center">AI · Agents</th></tr>
+<tr align="center">
+<td><img src="https://img.shields.io/badge/Anthropic_Claude-0A0A0A?style=for-the-badge&logo=anthropic&logoColor=CC785C" /></td>
+<td><img src="https://img.shields.io/badge/Claude_Code-0A0A0A?style=for-the-badge&logo=anthropic&logoColor=CC785C" /></td>
+<td><img src="https://img.shields.io/badge/Agent_SDK-0A0A0A?style=for-the-badge&logo=anthropic&logoColor=CC785C" /></td>
+<td><img src="https://img.shields.io/badge/MCP_Servers-0A0A0A?style=for-the-badge" /></td>
+</tr>
+<tr align="center">
+<td><img src="https://img.shields.io/badge/Multi--agent-0A0A0A?style=for-the-badge" /></td>
+<td><img src="https://img.shields.io/badge/Tool_Use-0A0A0A?style=for-the-badge" /></td>
+<td><img src="https://img.shields.io/badge/RAG-0A0A0A?style=for-the-badge" /></td>
+<td><img src="https://img.shields.io/badge/pgvector-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=4169E1" /></td>
+</tr>
 
-### Data · Storage
+<tr><th colspan="4" align="center">Data · Storage</th></tr>
+<tr align="center">
+<td><img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=4169E1" /></td>
+<td><img src="https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=4479A1" /></td>
+<td><img src="https://img.shields.io/badge/ClickHouse-0A0A0A?style=for-the-badge&logo=clickhouse&logoColor=FFCC01" /></td>
+<td><img src="https://img.shields.io/badge/Redis-0A0A0A?style=for-the-badge&logo=redis&logoColor=DC382D" /></td>
+</tr>
+<tr align="center">
+<td><img src="https://img.shields.io/badge/Supabase-0A0A0A?style=for-the-badge&logo=supabase&logoColor=3ECF8E" /></td>
+<td><img src="https://img.shields.io/badge/AWS_S3-0A0A0A?style=for-the-badge&logo=amazons3&logoColor=569A31" /></td>
+<td><img src="https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=47A248" /></td>
+<td><img src="https://img.shields.io/badge/Alembic-0A0A0A?style=for-the-badge" /></td>
+</tr>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-0A0A0A?style=for-the-badge&logo=clickhouse&logoColor=FFCC01)
-![Redis](https://img.shields.io/badge/Redis-0A0A0A?style=for-the-badge&logo=redis&logoColor=DC382D)
-![Supabase](https://img.shields.io/badge/Supabase-0A0A0A?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![S3](https://img.shields.io/badge/AWS_S3-0A0A0A?style=for-the-badge&logo=amazons3&logoColor=569A31)
+<tr><th colspan="4" align="center">APIs · Queues · Auth</th></tr>
+<tr align="center">
+<td><img src="https://img.shields.io/badge/REST-0A0A0A?style=for-the-badge" /></td>
+<td><img src="https://img.shields.io/badge/gRPC-0A0A0A?style=for-the-badge&logo=google&logoColor=white" /></td>
+<td><img src="https://img.shields.io/badge/GraphQL-0A0A0A?style=for-the-badge&logo=graphql&logoColor=E10098" /></td>
+<td><img src="https://img.shields.io/badge/WebSockets-0A0A0A?style=for-the-badge&logo=socketdotio&logoColor=white" /></td>
+</tr>
+<tr align="center">
+<td><img src="https://img.shields.io/badge/Celery-0A0A0A?style=for-the-badge&logo=celery&logoColor=37814A" /></td>
+<td><img src="https://img.shields.io/badge/RabbitMQ-0A0A0A?style=for-the-badge&logo=rabbitmq&logoColor=FF6600" /></td>
+<td><img src="https://img.shields.io/badge/JWT-0A0A0A?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /></td>
+<td><img src="https://img.shields.io/badge/OAuth2-0A0A0A?style=for-the-badge" /></td>
+</tr>
 
-### APIs · Queues · Auth
+<tr><th colspan="4" align="center">Frontend</th></tr>
+<tr align="center">
+<td><img src="https://img.shields.io/badge/React_19-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB" /></td>
+<td><img src="https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=next.js&logoColor=white" /></td>
+<td><img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=3178C6" /></td>
+<td><img src="https://img.shields.io/badge/Tailwind-0A0A0A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" /></td>
+</tr>
+<tr align="center">
+<td><img src="https://img.shields.io/badge/Vite-0A0A0A?style=for-the-badge&logo=vite&logoColor=646CFF" /></td>
+<td><img src="https://img.shields.io/badge/PWA-0A0A0A?style=for-the-badge&logo=pwa&logoColor=5A0FC8" /></td>
+<td><img src="https://img.shields.io/badge/TanStack-0A0A0A?style=for-the-badge&logo=reactquery&logoColor=FF4154" /></td>
+<td><img src="https://img.shields.io/badge/Web_Workers-0A0A0A?style=for-the-badge" /></td>
+</tr>
 
-![REST](https://img.shields.io/badge/REST_API-0A0A0A?style=for-the-badge)
-![gRPC](https://img.shields.io/badge/gRPC-0A0A0A?style=for-the-badge&logo=google&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-0A0A0A?style=for-the-badge&logo=graphql&logoColor=E10098)
-![WebSockets](https://img.shields.io/badge/WebSockets-0A0A0A?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-0A0A0A?style=for-the-badge&logo=celery&logoColor=37814A)
-![JWT](https://img.shields.io/badge/JWT-0A0A0A?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+<tr><th colspan="4" align="center">DevOps · Infrastructure</th></tr>
+<tr align="center">
+<td><img src="https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazonaws&logoColor=FF9900" /></td>
+<td><img src="https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED" /></td>
+<td><img src="https://img.shields.io/badge/Kubernetes-0A0A0A?style=for-the-badge&logo=kubernetes&logoColor=326CE5" /></td>
+<td><img src="https://img.shields.io/badge/Terraform-0A0A0A?style=for-the-badge&logo=terraform&logoColor=7B42BC" /></td>
+</tr>
+<tr align="center">
+<td><img src="https://img.shields.io/badge/Ansible-0A0A0A?style=for-the-badge&logo=ansible&logoColor=EE0000" /></td>
+<td><img src="https://img.shields.io/badge/nginx-0A0A0A?style=for-the-badge&logo=nginx&logoColor=009639" /></td>
+<td><img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=FCC624" /></td>
+<td><img src="https://img.shields.io/badge/Vercel-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" /></td>
+</tr>
 
-### Frontend
+<tr><th colspan="4" align="center">Observability · Quality</th></tr>
+<tr align="center">
+<td><img src="https://img.shields.io/badge/GitHub_Actions-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=2088FF" /></td>
+<td><img src="https://img.shields.io/badge/Prometheus-0A0A0A?style=for-the-badge&logo=prometheus&logoColor=E6522C" /></td>
+<td><img src="https://img.shields.io/badge/Grafana-0A0A0A?style=for-the-badge&logo=grafana&logoColor=F46800" /></td>
+<td><img src="https://img.shields.io/badge/Sentry-0A0A0A?style=for-the-badge&logo=sentry&logoColor=white" /></td>
+</tr>
+<tr align="center">
+<td><img src="https://img.shields.io/badge/mypy_strict-0A0A0A?style=for-the-badge" /></td>
+<td><img src="https://img.shields.io/badge/ruff-0A0A0A?style=for-the-badge" /></td>
+<td><img src="https://img.shields.io/badge/bandit-0A0A0A?style=for-the-badge" /></td>
+<td><img src="https://img.shields.io/badge/pytest-0A0A0A?style=for-the-badge&logo=pytest&logoColor=0A9EDC" /></td>
+</tr>
 
-![React](https://img.shields.io/badge/React_19-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Tailwind](https://img.shields.io/badge/Tailwind-0A0A0A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Vite](https://img.shields.io/badge/Vite-0A0A0A?style=for-the-badge&logo=vite&logoColor=646CFF)
-![PWA](https://img.shields.io/badge/PWA-0A0A0A?style=for-the-badge&logo=pwa&logoColor=5A0FC8)
-
-### DevOps · Infrastructure
-
-![AWS](https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0A0A0A?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![Terraform](https://img.shields.io/badge/Terraform-0A0A0A?style=for-the-badge&logo=terraform&logoColor=7B42BC)
-![nginx](https://img.shields.io/badge/nginx-0A0A0A?style=for-the-badge&logo=nginx&logoColor=009639)
-![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=FCC624)
-
-### Observability · Quality
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Prometheus](https://img.shields.io/badge/Prometheus-0A0A0A?style=for-the-badge&logo=prometheus&logoColor=E6522C)
-![Grafana](https://img.shields.io/badge/Grafana-0A0A0A?style=for-the-badge&logo=grafana&logoColor=F46800)
-![Sentry](https://img.shields.io/badge/Sentry-0A0A0A?style=for-the-badge&logo=sentry&logoColor=white)
-![mypy](https://img.shields.io/badge/mypy_strict-0A0A0A?style=for-the-badge)
-![ruff](https://img.shields.io/badge/ruff-0A0A0A?style=for-the-badge)
-
-### Specialty
-
-![OpenCV](https://img.shields.io/badge/OpenCV-0A0A0A?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0A0A0A?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![NumPy](https://img.shields.io/badge/NumPy-0A0A0A?style=for-the-badge&logo=numpy&logoColor=white)
-![Polkadot](https://img.shields.io/badge/Polkadot.js-0A0A0A?style=for-the-badge&logo=polkadot&logoColor=E6007A)
-![Rust](https://img.shields.io/badge/Rust-0A0A0A?style=for-the-badge&logo=rust&logoColor=white)
+<tr><th colspan="4" align="center">Specialty · Rust</th></tr>
+<tr align="center">
+<td><img src="https://img.shields.io/badge/OpenCV-0A0A0A?style=for-the-badge&logo=opencv&logoColor=5C3EE8" /></td>
+<td><img src="https://img.shields.io/badge/scikit--learn-0A0A0A?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" /></td>
+<td><img src="https://img.shields.io/badge/NumPy-0A0A0A?style=for-the-badge&logo=numpy&logoColor=white" /></td>
+<td><img src="https://img.shields.io/badge/Polkadot.js-0A0A0A?style=for-the-badge&logo=polkadot&logoColor=E6007A" /></td>
+</tr>
+<tr align="center">
+<td><img src="https://img.shields.io/badge/Rust-0A0A0A?style=for-the-badge&logo=rust&logoColor=white" /></td>
+<td><img src="https://img.shields.io/badge/Tokio-0A0A0A?style=for-the-badge" /></td>
+<td><img src="https://img.shields.io/badge/Serde-0A0A0A?style=for-the-badge" /></td>
+<td><img src="https://img.shields.io/badge/Bittensor-0A0A0A?style=for-the-badge" /></td>
+</tr>
+</table>
 
 ---
 
-## Client testimonials
+<a name="client-testimonials"></a>
+<div align="center">
+
+![Client Testimonials](https://img.shields.io/badge/CLIENT_TESTIMONIALS-0A0A0A?style=for-the-badge)
 
 **4 contracts · 5.0 average · 100% positive reviews**
+
+</div>
 
 <table>
 <tr>
@@ -162,9 +220,10 @@ Specialty is AI/LLM integration: Anthropic Claude through Claude API, Claude Cod
 
 ---
 
-## Get in touch
-
+<a name="get-in-touch"></a>
 <div align="center">
+
+![Get In Touch](https://img.shields.io/badge/GET_IN_TOUCH-FF3D2E?style=for-the-badge)
 
 **Ready to discuss your project.**
 
