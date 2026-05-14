@@ -1,4 +1,4 @@
-# Oleg Safronov
+![Oleg Safronov](https://img.shields.io/badge/OLEG_SAFRONOV-0A0A0A?style=for-the-badge)
 
 Senior Backend Engineer · AI Integration  
 Working with clients in the USA, UK, Canada and the EU
