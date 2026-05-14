@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=72&duration=1&pause=99999&color=0A0A0A&center=true&vCenter=true&width=700&height=100&lines=OLEG+SAFRONOV" alt="Oleg Safronov" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=48&duration=1&pause=99999&color=0A0A0A&center=true&vCenter=true&width=500&height=70&lines=OLEG+SAFRONOV" alt="Oleg Safronov" />
 
-**Senior Backend · AI Integration**
+### Senior Backend · AI Integration
 
 `Production-ready systems from scratch: architecture → code → deployment → security`
 
@@ -49,8 +49,8 @@ Specialty is AI/LLM integration: Anthropic Claude through Claude API, Claude Cod
 
 </div>
 
+<h3 align="center">Backend</h3>
 <table align="center">
-<tr><th colspan="4" align="center">Backend</th></tr>
 <tr align="center">
 <td><img src="https://img.shields.io/badge/Python_3.12-0A0A0A?style=for-the-badge&logo=python&logoColor=3776AB" /></td>
 <td><img src="https://img.shields.io/badge/FastAPI-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=009688" /></td>
@@ -63,8 +63,10 @@ Specialty is AI/LLM integration: Anthropic Claude through Claude API, Claude Cod
 <td><img src="https://img.shields.io/badge/Pydantic_v2-0A0A0A?style=for-the-badge&logo=pydantic&logoColor=E92063" /></td>
 <td><img src="https://img.shields.io/badge/uvloop-0A0A0A?style=for-the-badge" /></td>
 </tr>
+</table>
 
-<tr><th colspan="4" align="center">AI · Agents</th></tr>
+<h3 align="center">AI · Agents</h3>
+<table align="center">
 <tr align="center">
 <td><img src="https://img.shields.io/badge/Anthropic_Claude-0A0A0A?style=for-the-badge&logo=anthropic&logoColor=CC785C" /></td>
 <td><img src="https://img.shields.io/badge/Claude_Code-0A0A0A?style=for-the-badge&logo=anthropic&logoColor=CC785C" /></td>
@@ -77,8 +79,10 @@ Specialty is AI/LLM integration: Anthropic Claude through Claude API, Claude Cod
 <td><img src="https://img.shields.io/badge/RAG-0A0A0A?style=for-the-badge" /></td>
 <td><img src="https://img.shields.io/badge/pgvector-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=4169E1" /></td>
 </tr>
+</table>
 
-<tr><th colspan="4" align="center">Data · Storage</th></tr>
+<h3 align="center">Data · Storage</h3>
+<table align="center">
 <tr align="center">
 <td><img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=4169E1" /></td>
 <td><img src="https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=4479A1" /></td>
@@ -91,8 +95,10 @@ Specialty is AI/LLM integration: Anthropic Claude through Claude API, Claude Cod
 <td><img src="https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=47A248" /></td>
 <td><img src="https://img.shields.io/badge/Alembic-0A0A0A?style=for-the-badge" /></td>
 </tr>
+</table>
 
-<tr><th colspan="4" align="center">APIs · Queues · Auth</th></tr>
+<h3 align="center">APIs · Queues · Auth</h3>
+<table align="center">
 <tr align="center">
 <td><img src="https://img.shields.io/badge/REST-0A0A0A?style=for-the-badge" /></td>
 <td><img src="https://img.shields.io/badge/gRPC-0A0A0A?style=for-the-badge&logo=google&logoColor=white" /></td>
@@ -105,8 +111,10 @@ Specialty is AI/LLM integration: Anthropic Claude through Claude API, Claude Cod
 <td><img src="https://img.shields.io/badge/JWT-0A0A0A?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /></td>
 <td><img src="https://img.shields.io/badge/OAuth2-0A0A0A?style=for-the-badge" /></td>
 </tr>
+</table>
 
-<tr><th colspan="4" align="center">Frontend</th></tr>
+<h3 align="center">Frontend</h3>
+<table align="center">
 <tr align="center">
 <td><img src="https://img.shields.io/badge/React_19-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB" /></td>
 <td><img src="https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=next.js&logoColor=white" /></td>
@@ -119,8 +127,10 @@ Specialty is AI/LLM integration: Anthropic Claude through Claude API, Claude Cod
 <td><img src="https://img.shields.io/badge/TanStack-0A0A0A?style=for-the-badge&logo=reactquery&logoColor=FF4154" /></td>
 <td><img src="https://img.shields.io/badge/Web_Workers-0A0A0A?style=for-the-badge" /></td>
 </tr>
+</table>
 
-<tr><th colspan="4" align="center">DevOps · Infrastructure</th></tr>
+<h3 align="center">DevOps · Infrastructure</h3>
+<table align="center">
 <tr align="center">
 <td><img src="https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazonaws&logoColor=FF9900" /></td>
 <td><img src="https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED" /></td>
@@ -133,8 +143,10 @@ Specialty is AI/LLM integration: Anthropic Claude through Claude API, Claude Cod
 <td><img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=FCC624" /></td>
 <td><img src="https://img.shields.io/badge/Vercel-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" /></td>
 </tr>
+</table>
 
-<tr><th colspan="4" align="center">Observability · Quality</th></tr>
+<h3 align="center">Observability · Quality</h3>
+<table align="center">
 <tr align="center">
 <td><img src="https://img.shields.io/badge/GitHub_Actions-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=2088FF" /></td>
 <td><img src="https://img.shields.io/badge/Prometheus-0A0A0A?style=for-the-badge&logo=prometheus&logoColor=E6522C" /></td>
@@ -147,8 +159,10 @@ Specialty is AI/LLM integration: Anthropic Claude through Claude API, Claude Cod
 <td><img src="https://img.shields.io/badge/bandit-0A0A0A?style=for-the-badge" /></td>
 <td><img src="https://img.shields.io/badge/pytest-0A0A0A?style=for-the-badge&logo=pytest&logoColor=0A9EDC" /></td>
 </tr>
+</table>
 
-<tr><th colspan="4" align="center">Specialty · Rust</th></tr>
+<h3 align="center">Specialty · Rust</h3>
+<table align="center">
 <tr align="center">
 <td><img src="https://img.shields.io/badge/OpenCV-0A0A0A?style=for-the-badge&logo=opencv&logoColor=5C3EE8" /></td>
 <td><img src="https://img.shields.io/badge/scikit--learn-0A0A0A?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" /></td>
