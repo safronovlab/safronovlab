@@ -48,133 +48,77 @@ Specialty is AI/LLM integration: Anthropic Claude through Claude API, Claude Cod
 
 </div>
 
-<h3 align="center">Backend</h3>
-<table align="center">
-<tr align="center">
-<td><img src="https://img.shields.io/badge/Python_3.12-0A0A0A?style=for-the-badge&logo=python&logoColor=3776AB" /></td>
-<td><img src="https://img.shields.io/badge/FastAPI-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=009688" /></td>
-<td><img src="https://img.shields.io/badge/Django-0A0A0A?style=for-the-badge&logo=django&logoColor=44B78B" /></td>
-<td><img src="https://img.shields.io/badge/aiogram_3-0A0A0A?style=for-the-badge&logo=telegram&logoColor=2CA5E0" /></td>
-</tr>
-<tr align="center">
-<td><img src="https://img.shields.io/badge/SQLAlchemy-0A0A0A?style=for-the-badge&logo=sqlalchemy&logoColor=white" /></td>
-<td><img src="https://img.shields.io/badge/asyncpg-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=4169E1" /></td>
-<td><img src="https://img.shields.io/badge/Pydantic_v2-0A0A0A?style=for-the-badge&logo=pydantic&logoColor=E92063" /></td>
-<td><img src="https://img.shields.io/badge/uvloop-0A0A0A?style=for-the-badge" /></td>
-</tr>
-</table>
+<div align="center">
 
-<h3 align="center">AI · Agents</h3>
-<table align="center">
-<tr align="center">
-<td><img src="https://img.shields.io/badge/Anthropic_Claude-0A0A0A?style=for-the-badge&logo=anthropic&logoColor=CC785C" /></td>
-<td><img src="https://img.shields.io/badge/Claude_Code-0A0A0A?style=for-the-badge&logo=anthropic&logoColor=CC785C" /></td>
-<td><img src="https://img.shields.io/badge/Agent_SDK-0A0A0A?style=for-the-badge&logo=anthropic&logoColor=CC785C" /></td>
-<td><img src="https://img.shields.io/badge/MCP_Servers-0A0A0A?style=for-the-badge" /></td>
-</tr>
-<tr align="center">
-<td><img src="https://img.shields.io/badge/Multi--agent-0A0A0A?style=for-the-badge" /></td>
-<td><img src="https://img.shields.io/badge/Tool_Use-0A0A0A?style=for-the-badge" /></td>
-<td><img src="https://img.shields.io/badge/RAG-0A0A0A?style=for-the-badge" /></td>
-<td><img src="https://img.shields.io/badge/pgvector-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=4169E1" /></td>
-</tr>
-</table>
+![Backend](https://img.shields.io/badge/BACKEND-0A0A0A?style=for-the-badge)
 
-<h3 align="center">Data · Storage</h3>
-<table align="center">
-<tr align="center">
-<td><img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=4169E1" /></td>
-<td><img src="https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=4479A1" /></td>
-<td><img src="https://img.shields.io/badge/ClickHouse-0A0A0A?style=for-the-badge&logo=clickhouse&logoColor=FFCC01" /></td>
-<td><img src="https://img.shields.io/badge/Redis-0A0A0A?style=for-the-badge&logo=redis&logoColor=DC382D" /></td>
-</tr>
-<tr align="center">
-<td><img src="https://img.shields.io/badge/Supabase-0A0A0A?style=for-the-badge&logo=supabase&logoColor=3ECF8E" /></td>
-<td><img src="https://img.shields.io/badge/AWS_S3-0A0A0A?style=for-the-badge&logo=amazons3&logoColor=569A31" /></td>
-<td><img src="https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=47A248" /></td>
-<td><img src="https://img.shields.io/badge/Alembic-0A0A0A?style=for-the-badge" /></td>
-</tr>
-</table>
+</div>
 
-<h3 align="center">APIs · Queues · Auth</h3>
-<table align="center">
-<tr align="center">
-<td><img src="https://img.shields.io/badge/REST-0A0A0A?style=for-the-badge" /></td>
-<td><img src="https://img.shields.io/badge/gRPC-0A0A0A?style=for-the-badge&logo=google&logoColor=white" /></td>
-<td><img src="https://img.shields.io/badge/GraphQL-0A0A0A?style=for-the-badge&logo=graphql&logoColor=E10098" /></td>
-<td><img src="https://img.shields.io/badge/WebSockets-0A0A0A?style=for-the-badge&logo=socketdotio&logoColor=white" /></td>
-</tr>
-<tr align="center">
-<td><img src="https://img.shields.io/badge/Celery-0A0A0A?style=for-the-badge&logo=celery&logoColor=37814A" /></td>
-<td><img src="https://img.shields.io/badge/RabbitMQ-0A0A0A?style=for-the-badge&logo=rabbitmq&logoColor=FF6600" /></td>
-<td><img src="https://img.shields.io/badge/JWT-0A0A0A?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /></td>
-<td><img src="https://img.shields.io/badge/OAuth2-0A0A0A?style=for-the-badge" /></td>
-</tr>
-</table>
+Python 3.12 · FastAPI · Django · Flask · aiogram 3 · aiohttp · httpx · asyncpg · SQLAlchemy · Tortoise ORM · Pydantic v2 · msgspec · uvloop · Clean Architecture · Hexagonal · DDD
 
-<h3 align="center">Frontend</h3>
-<table align="center">
-<tr align="center">
-<td><img src="https://img.shields.io/badge/React_19-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB" /></td>
-<td><img src="https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=next.js&logoColor=white" /></td>
-<td><img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=3178C6" /></td>
-<td><img src="https://img.shields.io/badge/Tailwind-0A0A0A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" /></td>
-</tr>
-<tr align="center">
-<td><img src="https://img.shields.io/badge/Vite-0A0A0A?style=for-the-badge&logo=vite&logoColor=646CFF" /></td>
-<td><img src="https://img.shields.io/badge/PWA-0A0A0A?style=for-the-badge&logo=pwa&logoColor=5A0FC8" /></td>
-<td><img src="https://img.shields.io/badge/TanStack-0A0A0A?style=for-the-badge&logo=reactquery&logoColor=FF4154" /></td>
-<td><img src="https://img.shields.io/badge/Web_Workers-0A0A0A?style=for-the-badge" /></td>
-</tr>
-</table>
+<div align="center">
 
-<h3 align="center">DevOps · Infrastructure</h3>
-<table align="center">
-<tr align="center">
-<td><img src="https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazonaws&logoColor=FF9900" /></td>
-<td><img src="https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED" /></td>
-<td><img src="https://img.shields.io/badge/Kubernetes-0A0A0A?style=for-the-badge&logo=kubernetes&logoColor=326CE5" /></td>
-<td><img src="https://img.shields.io/badge/Terraform-0A0A0A?style=for-the-badge&logo=terraform&logoColor=7B42BC" /></td>
-</tr>
-<tr align="center">
-<td><img src="https://img.shields.io/badge/Ansible-0A0A0A?style=for-the-badge&logo=ansible&logoColor=EE0000" /></td>
-<td><img src="https://img.shields.io/badge/nginx-0A0A0A?style=for-the-badge&logo=nginx&logoColor=009639" /></td>
-<td><img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=FCC624" /></td>
-<td><img src="https://img.shields.io/badge/Vercel-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" /></td>
-</tr>
-</table>
+![AI · Agents](https://img.shields.io/badge/AI_·_AGENTS-0A0A0A?style=for-the-badge)
 
-<h3 align="center">Observability · Quality</h3>
-<table align="center">
-<tr align="center">
-<td><img src="https://img.shields.io/badge/GitHub_Actions-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=2088FF" /></td>
-<td><img src="https://img.shields.io/badge/Prometheus-0A0A0A?style=for-the-badge&logo=prometheus&logoColor=E6522C" /></td>
-<td><img src="https://img.shields.io/badge/Grafana-0A0A0A?style=for-the-badge&logo=grafana&logoColor=F46800" /></td>
-<td><img src="https://img.shields.io/badge/Sentry-0A0A0A?style=for-the-badge&logo=sentry&logoColor=white" /></td>
-</tr>
-<tr align="center">
-<td><img src="https://img.shields.io/badge/mypy_strict-0A0A0A?style=for-the-badge" /></td>
-<td><img src="https://img.shields.io/badge/ruff-0A0A0A?style=for-the-badge" /></td>
-<td><img src="https://img.shields.io/badge/bandit-0A0A0A?style=for-the-badge" /></td>
-<td><img src="https://img.shields.io/badge/pytest-0A0A0A?style=for-the-badge&logo=pytest&logoColor=0A9EDC" /></td>
-</tr>
-</table>
+</div>
 
-<h3 align="center">Specialty · Rust</h3>
-<table align="center">
-<tr align="center">
-<td><img src="https://img.shields.io/badge/OpenCV-0A0A0A?style=for-the-badge&logo=opencv&logoColor=5C3EE8" /></td>
-<td><img src="https://img.shields.io/badge/scikit--learn-0A0A0A?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" /></td>
-<td><img src="https://img.shields.io/badge/NumPy-0A0A0A?style=for-the-badge&logo=numpy&logoColor=white" /></td>
-<td><img src="https://img.shields.io/badge/Polkadot.js-0A0A0A?style=for-the-badge&logo=polkadot&logoColor=E6007A" /></td>
-</tr>
-<tr align="center">
-<td><img src="https://img.shields.io/badge/Rust-0A0A0A?style=for-the-badge&logo=rust&logoColor=white" /></td>
-<td><img src="https://img.shields.io/badge/Tokio-0A0A0A?style=for-the-badge" /></td>
-<td><img src="https://img.shields.io/badge/Serde-0A0A0A?style=for-the-badge" /></td>
-<td><img src="https://img.shields.io/badge/Bittensor-0A0A0A?style=for-the-badge" /></td>
-</tr>
-</table>
+Anthropic Claude · Claude Code · Claude Agent SDK · MCP servers · Tool use · Function calling · Multi-agent · OpenRouter · RAG · pgvector · Prompt eval · Business automation
+
+<div align="center">
+
+![Data · Storage](https://img.shields.io/badge/DATA_·_STORAGE-0A0A0A?style=for-the-badge)
+
+</div>
+
+PostgreSQL · MySQL · ClickHouse · MongoDB · Redis · Upstash · SQLite (WAL) · Supabase · S3 / MinIO · Alembic
+
+<div align="center">
+
+![APIs · Queues · Auth](https://img.shields.io/badge/APIs_·_QUEUES_·_AUTH-0A0A0A?style=for-the-badge)
+
+</div>
+
+REST · gRPC · GraphQL · WebSockets · Server-Sent Events · Celery · RQ · Dramatiq · RabbitMQ · Redis Pub/Sub · JWT · OAuth2 · OpenID Connect
+
+<div align="center">
+
+![Frontend](https://img.shields.io/badge/FRONTEND-0A0A0A?style=for-the-badge)
+
+</div>
+
+React 19 · Next.js 14 · TypeScript · Tailwind CSS · Vite · TanStack Query · Web Workers · PWA · Recharts
+
+<div align="center">
+
+![DevOps · Infrastructure](https://img.shields.io/badge/DEVOPS_·_INFRASTRUCTURE-0A0A0A?style=for-the-badge)
+
+</div>
+
+AWS · Docker · Kubernetes · Terraform · Ansible · Hetzner · DigitalOcean · Coolify · Vercel · nginx · Traefik · Caddy · Linux / Ubuntu · Let's Encrypt
+
+<div align="center">
+
+![Observability · Quality](https://img.shields.io/badge/OBSERVABILITY_·_QUALITY-0A0A0A?style=for-the-badge)
+
+</div>
+
+GitHub Actions · GitLab CI · Prometheus · Grafana · Loki · Sentry · OpenTelemetry · Structured logging · pre-commit hooks · mypy strict · pyright · ruff · bandit · pytest
+
+<div align="center">
+
+![Security](https://img.shields.io/badge/SECURITY-0A0A0A?style=for-the-badge)
+
+</div>
+
+Fernet / AES · Server hardening · HMAC / Webhooks · Vault / SOPS · RLS audit · Threat modeling · fail2ban · ufw · AppArmor
+
+<div align="center">
+
+![Specialty · Rust](https://img.shields.io/badge/SPECIALTY_·_RUST-0A0A0A?style=for-the-badge)
+
+</div>
+
+OpenCV · scikit-learn · scikit-image · NumPy · LAB K-means · Delta-E 2000 · Polkadot.js · Bittensor RPC · Wallet integrations · Rust · Tokio · Serde
 
 ---
 
