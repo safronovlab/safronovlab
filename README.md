@@ -1,7 +1,4 @@
 <div align="center">
-
-### ● PORTFOLIO · 2026
-
 # OLEG SAFRONOV
 
 **Full-cycle engineer**
@@ -287,7 +284,6 @@ Tokio · Serde
 Telegram     @safronov_oleg
 Email        safronovoleg1@gmail.com
 GitHub       github.com/safronovlab
-Location     Poland · CET / CEST
 ```
 
 <sub>Oleg Safronov · Senior Backend · AI Integration · 2026</sub>
