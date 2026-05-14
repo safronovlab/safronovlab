@@ -48,41 +48,41 @@ Specialty is AI/LLM integration: Anthropic Claude through Claude API, Claude Cod
 
 </div>
 
-![Backend](https://img.shields.io/badge/BACKEND-0A0A0A?style=for-the-badge)
+![Backend](https://img.shields.io/badge/BACKEND-0A0A0A?style=flat-square)
 
-`Python 3.12` `FastAPI` `Django` `Flask` `aiogram 3` `aiohttp` `httpx` `asyncpg` `SQLAlchemy` `Tortoise ORM` `Pydantic v2` `msgspec` `uvloop` `Clean Architecture` `Hexagonal` `DDD`
+<h3>Python 3.12 · FastAPI · Django · Flask · aiogram 3 · aiohttp · httpx · asyncpg · SQLAlchemy · Tortoise ORM · Pydantic v2 · msgspec · uvloop · Clean Architecture · Hexagonal · DDD</h3>
 
-![AI · Agents](https://img.shields.io/badge/AI_·_AGENTS-0A0A0A?style=for-the-badge)
+![AI · Agents](https://img.shields.io/badge/AI_·_AGENTS-0A0A0A?style=flat-square)
 
-`Anthropic Claude` `Claude Code` `Claude Agent SDK` `MCP servers` `Tool use` `Function calling` `Multi-agent` `OpenRouter` `RAG` `pgvector` `Prompt eval` `Business automation`
+<h3>Anthropic Claude · Claude Code · Claude Agent SDK · MCP servers · Tool use · Function calling · Multi-agent · OpenRouter · RAG · pgvector · Prompt eval · Business automation</h3>
 
-![Data · Storage](https://img.shields.io/badge/DATA_·_STORAGE-0A0A0A?style=for-the-badge)
+![Data · Storage](https://img.shields.io/badge/DATA_·_STORAGE-0A0A0A?style=flat-square)
 
-`PostgreSQL` `MySQL` `ClickHouse` `MongoDB` `Redis` `Upstash` `SQLite (WAL)` `Supabase` `S3 / MinIO` `Alembic`
+<h3>PostgreSQL · MySQL · ClickHouse · MongoDB · Redis · Upstash · SQLite (WAL) · Supabase · S3 / MinIO · Alembic</h3>
 
-![APIs · Queues · Auth](https://img.shields.io/badge/APIs_·_QUEUES_·_AUTH-0A0A0A?style=for-the-badge)
+![APIs · Queues · Auth](https://img.shields.io/badge/APIs_·_QUEUES_·_AUTH-0A0A0A?style=flat-square)
 
-`REST` `gRPC` `GraphQL` `WebSockets` `Server-Sent Events` `Celery` `RQ` `Dramatiq` `RabbitMQ` `Redis Pub/Sub` `JWT` `OAuth2` `OpenID Connect`
+<h3>REST · gRPC · GraphQL · WebSockets · Server-Sent Events · Celery · RQ · Dramatiq · RabbitMQ · Redis Pub/Sub · JWT · OAuth2 · OpenID Connect</h3>
 
-![Frontend](https://img.shields.io/badge/FRONTEND-0A0A0A?style=for-the-badge)
+![Frontend](https://img.shields.io/badge/FRONTEND-0A0A0A?style=flat-square)
 
-`React 19` `Next.js 14` `TypeScript` `Tailwind CSS` `Vite` `TanStack Query` `Web Workers` `PWA` `Recharts`
+<h3>React 19 · Next.js 14 · TypeScript · Tailwind CSS · Vite · TanStack Query · Web Workers · PWA · Recharts</h3>
 
-![DevOps · Infrastructure](https://img.shields.io/badge/DEVOPS_·_INFRASTRUCTURE-0A0A0A?style=for-the-badge)
+![DevOps · Infrastructure](https://img.shields.io/badge/DEVOPS_·_INFRASTRUCTURE-0A0A0A?style=flat-square)
 
-`AWS` `Docker` `Kubernetes` `Terraform` `Ansible` `Hetzner` `DigitalOcean` `Coolify` `Vercel` `nginx` `Traefik` `Caddy` `Linux / Ubuntu` `Let's Encrypt`
+<h3>AWS · Docker · Kubernetes · Terraform · Ansible · Hetzner · DigitalOcean · Coolify · Vercel · nginx · Traefik · Caddy · Linux / Ubuntu · Let's Encrypt</h3>
 
-![Observability · Quality](https://img.shields.io/badge/OBSERVABILITY_·_QUALITY-0A0A0A?style=for-the-badge)
+![Observability · Quality](https://img.shields.io/badge/OBSERVABILITY_·_QUALITY-0A0A0A?style=flat-square)
 
-`GitHub Actions` `GitLab CI` `Prometheus` `Grafana` `Loki` `Sentry` `OpenTelemetry` `Structured logging` `pre-commit hooks` `mypy strict` `pyright` `ruff` `bandit` `pytest`
+<h3>GitHub Actions · GitLab CI · Prometheus · Grafana · Loki · Sentry · OpenTelemetry · Structured logging · pre-commit hooks · mypy strict · pyright · ruff · bandit · pytest</h3>
 
-![Security](https://img.shields.io/badge/SECURITY-0A0A0A?style=for-the-badge)
+![Security](https://img.shields.io/badge/SECURITY-0A0A0A?style=flat-square)
 
-`Fernet / AES` `Server hardening` `HMAC / Webhooks` `Vault / SOPS` `RLS audit` `Threat modeling` `fail2ban` `ufw` `AppArmor`
+<h3>Fernet / AES · Server hardening · HMAC / Webhooks · Vault / SOPS · RLS audit · Threat modeling · fail2ban · ufw · AppArmor</h3>
 
-![Specialty · Rust](https://img.shields.io/badge/SPECIALTY_·_RUST-0A0A0A?style=for-the-badge)
+![Specialty · Rust](https://img.shields.io/badge/SPECIALTY_·_RUST-0A0A0A?style=flat-square)
 
-`OpenCV` `scikit-learn` `scikit-image` `NumPy` `LAB K-means` `Delta-E 2000` `Polkadot.js` `Bittensor RPC` `Wallet integrations` `Rust` `Tokio` `Serde`
+<h3>OpenCV · scikit-learn · scikit-image · NumPy · LAB K-means · Delta-E 2000 · Polkadot.js · Bittensor RPC · Wallet integrations · Rust · Tokio · Serde</h3>
 
 ---
 
