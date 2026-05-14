@@ -44,11 +44,11 @@ Five additional case studies (TaoScope, Forensic Production Incident Response, a
 
 **4 contracts · 5.0 average · 100% positive client reviews.**
 
-> Could not recommend Oleg enough. He understood the issue, was fast, precise, and knew exactly which parts of our infrastructure needed to be investigated to solve our revenue issue. — *UK, Apr 2026*
+> Could not recommend Oleg enough. He understood the issue, was fast, precise, and knew exactly which parts of our infrastructure needed to be investigated to solve our revenue issue. — *UK*
 
-> Oleg picked up where our previous developer left off and delivered a much more reliable tool. He took the time to understand the specific failure modes, asked the right questions, and built something that actually works for our workflow. — *USA, Apr 2026*
+> Oleg picked up where our previous developer left off and delivered a much more reliable tool. He took the time to understand the specific failure modes, asked the right questions, and built something that actually works for our workflow. — *USA*
 
-> Quality work delivered, on time. Oleg is great to work with. — *USA, Mar 2026*
+> Quality work delivered, on time. Oleg is great to work with. — *USA*
 
 ---
 
