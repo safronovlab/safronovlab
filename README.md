@@ -1,7 +1,7 @@
 # Oleg Safronov
 
 Senior Backend Engineer · AI Integration  
-Based in Poland · Working with clients in the USA, UK, Canada and the EU
+Working with clients in the USA, UK, Canada and the EU
 
 I build production-ready systems from scratch. Full cycle: architecture, code, tests, deployment, monitoring. 4 years of commercial experience, 5 completed projects, 5.0 average client rating across 4 contracts.
 
