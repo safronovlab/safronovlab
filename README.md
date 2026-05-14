@@ -48,77 +48,41 @@ Specialty is AI/LLM integration: Anthropic Claude through Claude API, Claude Cod
 
 </div>
 
-<div align="center">
-
 ![Backend](https://img.shields.io/badge/BACKEND-0A0A0A?style=for-the-badge)
 
-</div>
-
-Python 3.12 · FastAPI · Django · Flask · aiogram 3 · aiohttp · httpx · asyncpg · SQLAlchemy · Tortoise ORM · Pydantic v2 · msgspec · uvloop · Clean Architecture · Hexagonal · DDD
-
-<div align="center">
+`Python 3.12` `FastAPI` `Django` `Flask` `aiogram 3` `aiohttp` `httpx` `asyncpg` `SQLAlchemy` `Tortoise ORM` `Pydantic v2` `msgspec` `uvloop` `Clean Architecture` `Hexagonal` `DDD`
 
 ![AI · Agents](https://img.shields.io/badge/AI_·_AGENTS-0A0A0A?style=for-the-badge)
 
-</div>
-
-Anthropic Claude · Claude Code · Claude Agent SDK · MCP servers · Tool use · Function calling · Multi-agent · OpenRouter · RAG · pgvector · Prompt eval · Business automation
-
-<div align="center">
+`Anthropic Claude` `Claude Code` `Claude Agent SDK` `MCP servers` `Tool use` `Function calling` `Multi-agent` `OpenRouter` `RAG` `pgvector` `Prompt eval` `Business automation`
 
 ![Data · Storage](https://img.shields.io/badge/DATA_·_STORAGE-0A0A0A?style=for-the-badge)
 
-</div>
-
-PostgreSQL · MySQL · ClickHouse · MongoDB · Redis · Upstash · SQLite (WAL) · Supabase · S3 / MinIO · Alembic
-
-<div align="center">
+`PostgreSQL` `MySQL` `ClickHouse` `MongoDB` `Redis` `Upstash` `SQLite (WAL)` `Supabase` `S3 / MinIO` `Alembic`
 
 ![APIs · Queues · Auth](https://img.shields.io/badge/APIs_·_QUEUES_·_AUTH-0A0A0A?style=for-the-badge)
 
-</div>
-
-REST · gRPC · GraphQL · WebSockets · Server-Sent Events · Celery · RQ · Dramatiq · RabbitMQ · Redis Pub/Sub · JWT · OAuth2 · OpenID Connect
-
-<div align="center">
+`REST` `gRPC` `GraphQL` `WebSockets` `Server-Sent Events` `Celery` `RQ` `Dramatiq` `RabbitMQ` `Redis Pub/Sub` `JWT` `OAuth2` `OpenID Connect`
 
 ![Frontend](https://img.shields.io/badge/FRONTEND-0A0A0A?style=for-the-badge)
 
-</div>
-
-React 19 · Next.js 14 · TypeScript · Tailwind CSS · Vite · TanStack Query · Web Workers · PWA · Recharts
-
-<div align="center">
+`React 19` `Next.js 14` `TypeScript` `Tailwind CSS` `Vite` `TanStack Query` `Web Workers` `PWA` `Recharts`
 
 ![DevOps · Infrastructure](https://img.shields.io/badge/DEVOPS_·_INFRASTRUCTURE-0A0A0A?style=for-the-badge)
 
-</div>
-
-AWS · Docker · Kubernetes · Terraform · Ansible · Hetzner · DigitalOcean · Coolify · Vercel · nginx · Traefik · Caddy · Linux / Ubuntu · Let's Encrypt
-
-<div align="center">
+`AWS` `Docker` `Kubernetes` `Terraform` `Ansible` `Hetzner` `DigitalOcean` `Coolify` `Vercel` `nginx` `Traefik` `Caddy` `Linux / Ubuntu` `Let's Encrypt`
 
 ![Observability · Quality](https://img.shields.io/badge/OBSERVABILITY_·_QUALITY-0A0A0A?style=for-the-badge)
 
-</div>
-
-GitHub Actions · GitLab CI · Prometheus · Grafana · Loki · Sentry · OpenTelemetry · Structured logging · pre-commit hooks · mypy strict · pyright · ruff · bandit · pytest
-
-<div align="center">
+`GitHub Actions` `GitLab CI` `Prometheus` `Grafana` `Loki` `Sentry` `OpenTelemetry` `Structured logging` `pre-commit hooks` `mypy strict` `pyright` `ruff` `bandit` `pytest`
 
 ![Security](https://img.shields.io/badge/SECURITY-0A0A0A?style=for-the-badge)
 
-</div>
-
-Fernet / AES · Server hardening · HMAC / Webhooks · Vault / SOPS · RLS audit · Threat modeling · fail2ban · ufw · AppArmor
-
-<div align="center">
+`Fernet / AES` `Server hardening` `HMAC / Webhooks` `Vault / SOPS` `RLS audit` `Threat modeling` `fail2ban` `ufw` `AppArmor`
 
 ![Specialty · Rust](https://img.shields.io/badge/SPECIALTY_·_RUST-0A0A0A?style=for-the-badge)
 
-</div>
-
-OpenCV · scikit-learn · scikit-image · NumPy · LAB K-means · Delta-E 2000 · Polkadot.js · Bittensor RPC · Wallet integrations · Rust · Tokio · Serde
+`OpenCV` `scikit-learn` `scikit-image` `NumPy` `LAB K-means` `Delta-E 2000` `Polkadot.js` `Bittensor RPC` `Wallet integrations` `Rust` `Tokio` `Serde`
 
 ---
 
