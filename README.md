@@ -1,157 +1,61 @@
-<div align="center">
+# Oleg Safronov
 
-<h1>Oleg Safronov</h1>
+Senior Backend Engineer · AI Integration  
+Based in Poland · Working with clients in the USA, UK, Canada and the EU
 
-### Senior Backend · AI Integration
+I build production-ready systems from scratch. Full cycle: architecture, code, tests, deployment, monitoring. 4 years of commercial experience, 5 completed projects, 5.0 average client rating across 4 contracts.
 
-`Production-ready systems from scratch: architecture → code → deployment → security`
+Currently focused on AI/LLM integration through the Anthropic Claude API, MCP servers, multi-agent pipelines, and RAG over vector databases. I also handle the underlying infrastructure: cloud provisioning, Docker, Kubernetes, server hardening.
 
-[![About](https://img.shields.io/badge/ABOUT-0A0A0A?style=for-the-badge)](#about)
-[![Stack](https://img.shields.io/badge/STACK-0A0A0A?style=for-the-badge)](#technology-stack)
-[![Reviews](https://img.shields.io/badge/REVIEWS-0A0A0A?style=for-the-badge)](#client-testimonials)
-[![Contact](https://img.shields.io/badge/CONTACT-0A0A0A?style=for-the-badge)](#get-in-touch)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO_PDF-FF3D2E?style=for-the-badge)](portfolio-ENG.pdf)
-
-</div>
+**[Download portfolio (PDF, English)](portfolio-ENG.pdf)** — five detailed case studies, print-ready A4.
 
 ---
 
-<div align="center">
+## Stack
 
-![4 years](https://img.shields.io/badge/4-YEARS_COMMERCIAL-0A0A0A?style=for-the-badge&labelColor=FF3D2E)
-![4 contracts](https://img.shields.io/badge/4-CONTRACTS_5.0-0A0A0A?style=for-the-badge&labelColor=FF3D2E)
-![4 countries](https://img.shields.io/badge/4-COUNTRIES-0A0A0A?style=for-the-badge&labelColor=FF3D2E)
-
-**USA · United Kingdom · Canada · Poland**
-
-</div>
-
----
-
-<a name="about"></a>
-<div align="center">
-
-![About](https://img.shields.io/badge/ABOUT-0A0A0A?style=for-the-badge)
-
-</div>
-
-Senior Backend engineer in Python with 4 years of commercial experience and 5 completed projects for clients in the USA, UK, Canada, and Poland. Full cycle: design, code, tests, deployment, monitoring, support. Documentation and tests come first, then code. Every project ships with a runbook.
-
-Specialty is AI/LLM integration: Anthropic Claude through Claude API, Claude Code, and Claude Agent SDK, MCP servers, multi-agent systems with tool use and function calling in production, RAG over vector DBs, two-pass filtering, prompt caching, quality and cost evaluation against metrics. I handle infrastructure myself, from cloud provisioning through Docker, Kubernetes, Terraform to nginx and Caddy reverse proxies. Background in information security (Russian University of Transport, honors degree) covers encryption, HMAC webhook signatures, RLS policy audits, and server hardening.
+| | |
+|---|---|
+| **Backend** | Python 3.12, FastAPI, Django, Flask, aiogram 3, asyncpg, SQLAlchemy, Pydantic v2, msgspec, uvloop, Clean Architecture, Hexagonal, DDD |
+| **AI · Agents** | Anthropic Claude (Opus, Sonnet, Haiku), Claude Code, Claude Agent SDK, MCP servers, tool use, function calling, multi-agent, OpenRouter, RAG, pgvector, prompt eval |
+| **Data** | PostgreSQL, MySQL, ClickHouse, MongoDB, Redis, Supabase, S3 / MinIO, Alembic |
+| **APIs · Queues** | REST, gRPC, GraphQL, WebSockets, Celery, RQ, Dramatiq, RabbitMQ, JWT, OAuth2 |
+| **Frontend** | React 19, Next.js 14, TypeScript, Tailwind CSS, Vite, TanStack Query, PWA |
+| **Infra · DevOps** | AWS, Docker, Kubernetes, Terraform, Ansible, Hetzner, DigitalOcean, Coolify, Vercel, nginx, Traefik, Linux |
+| **Observability** | GitHub Actions, Prometheus, Grafana, Loki, Sentry, OpenTelemetry, structured logging |
+| **Quality** | mypy strict, pyright, ruff, bandit, pytest (~320 per project), pre-commit hooks |
+| **Security** | Fernet / AES, HMAC webhooks, RLS audit, threat modeling, server hardening, Vault / SOPS |
+| **Specialty** | OpenCV, scikit-learn, LAB K-means, Delta-E 2000, Polkadot.js, Bittensor RPC, Rust (Tokio, Serde) |
 
 ---
 
-<a name="technology-stack"></a>
-<div align="center">
+## Selected work
 
-![Technology Stack](https://img.shields.io/badge/TECHNOLOGY_STACK-0A0A0A?style=for-the-badge)
+**[ai-gateway-poc](https://github.com/safronovlab/ai-gateway-poc)** — Async API gateway between business logic and LLM providers. Clean Architecture, FastAPI, encrypted credential storage, ~120 tests.
 
-</div>
+**[bulk-image](https://github.com/safronovlab/bulk-image)** — Pixel-perfect batch recoloring for PNG and JPEG. FastAPI + OpenCV + React 19, LAB K-means clustering, ~320 tests, <60s end-to-end on 2 GB VPS.
 
-![Backend](https://img.shields.io/badge/BACKEND-0A0A0A?style=flat-square)
+**[tg_bot_upwork](https://github.com/safronovlab/tg_bot_upwork)** — AI Lead Filter Bot. Two-pass LLM pipeline, ~50 MB resident memory, p99 webhook ingestion <50ms, p95 end-to-end <30s.
 
-<h3>Python 3.12 · FastAPI · Django · Flask · aiogram 3 · aiohttp · httpx · asyncpg · SQLAlchemy · Tortoise ORM · Pydantic v2 · msgspec · uvloop · Clean Architecture · Hexagonal · DDD</h3>
-
-![AI · Agents](https://img.shields.io/badge/AI_·_AGENTS-0A0A0A?style=flat-square)
-
-<h3>Anthropic Claude · Claude Code · Claude Agent SDK · MCP servers · Tool use · Function calling · Multi-agent · OpenRouter · RAG · pgvector · Prompt eval · Business automation</h3>
-
-![Data · Storage](https://img.shields.io/badge/DATA_·_STORAGE-0A0A0A?style=flat-square)
-
-<h3>PostgreSQL · MySQL · ClickHouse · MongoDB · Redis · Upstash · SQLite (WAL) · Supabase · S3 / MinIO · Alembic</h3>
-
-![APIs · Queues · Auth](https://img.shields.io/badge/APIs_·_QUEUES_·_AUTH-0A0A0A?style=flat-square)
-
-<h3>REST · gRPC · GraphQL · WebSockets · Server-Sent Events · Celery · RQ · Dramatiq · RabbitMQ · Redis Pub/Sub · JWT · OAuth2 · OpenID Connect</h3>
-
-![Frontend](https://img.shields.io/badge/FRONTEND-0A0A0A?style=flat-square)
-
-<h3>React 19 · Next.js 14 · TypeScript · Tailwind CSS · Vite · TanStack Query · Web Workers · PWA · Recharts</h3>
-
-![DevOps · Infrastructure](https://img.shields.io/badge/DEVOPS_·_INFRASTRUCTURE-0A0A0A?style=flat-square)
-
-<h3>AWS · Docker · Kubernetes · Terraform · Ansible · Hetzner · DigitalOcean · Coolify · Vercel · nginx · Traefik · Caddy · Linux / Ubuntu · Let's Encrypt</h3>
-
-![Observability · Quality](https://img.shields.io/badge/OBSERVABILITY_·_QUALITY-0A0A0A?style=flat-square)
-
-<h3>GitHub Actions · GitLab CI · Prometheus · Grafana · Loki · Sentry · OpenTelemetry · Structured logging · pre-commit hooks · mypy strict · pyright · ruff · bandit · pytest</h3>
-
-![Security](https://img.shields.io/badge/SECURITY-0A0A0A?style=flat-square)
-
-<h3>Fernet / AES · Server hardening · HMAC / Webhooks · Vault / SOPS · RLS audit · Threat modeling · fail2ban · ufw · AppArmor</h3>
-
-![Specialty · Rust](https://img.shields.io/badge/SPECIALTY_·_RUST-0A0A0A?style=flat-square)
-
-<h3>OpenCV · scikit-learn · scikit-image · NumPy · LAB K-means · Delta-E 2000 · Polkadot.js · Bittensor RPC · Wallet integrations · Rust · Tokio · Serde</h3>
+Five additional case studies (TaoScope, Forensic Production Incident Response, and others) are in the [portfolio PDF](portfolio-ENG.pdf).
 
 ---
 
-<a name="client-testimonials"></a>
-<div align="center">
+## Reviews
 
-![Client Testimonials](https://img.shields.io/badge/CLIENT_TESTIMONIALS-0A0A0A?style=for-the-badge)
+**4 contracts · 5.0 average · 100% positive client reviews.**
 
-**4 contracts · 5.0 average · 100% positive reviews**
+> Could not recommend Oleg enough. He understood the issue, was fast, precise, and knew exactly which parts of our infrastructure needed to be investigated to solve our revenue issue. — *UK, Apr 2026*
 
-</div>
+> Oleg picked up where our previous developer left off and delivered a much more reliable tool. He took the time to understand the specific failure modes, asked the right questions, and built something that actually works for our workflow. — *USA, Apr 2026*
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**★★★★★ 5.0** — Forensic Search Analyst · Revenue & Google Traffic Diagnosis
-
-> Could not recommend Oleg enough. He understood the issue, was fast, precise, and knew exactly which parts of our infrastructure needed to be investigated to solve our revenue issue.
-
-<sub>UK · Apr 2026</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**★★★★★ 5.0** — Tool Development · Bulk Image Upload & Color Management
-
-> Oleg picked up where our previous developer left off and delivered a much more reliable tool. He took the time to understand the specific failure modes, asked the right questions, and built something that actually works for our workflow.
-
-<sub>USA · Apr 2026</sub>
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-**★★★★★ 5.0** — AWS · DevOps Engineering
-
-> On time deliverable with quality.
-
-<sub>USA · Apr 2026</sub>
-
-</td>
-<td valign="top">
-
-**★★★★★ 5.0** — AWS · DevOps Engineering
-
-> Quality work delivered, on time. Oleg is great to work with.
-
-<sub>USA · Mar 2026</sub>
-
-</td>
-</tr>
-</table>
+> Quality work delivered, on time. Oleg is great to work with. — *USA, Mar 2026*
 
 ---
 
-<a name="get-in-touch"></a>
-<div align="center">
+## Contact
 
-![Get In Touch](https://img.shields.io/badge/GET_IN_TOUCH-FF3D2E?style=for-the-badge)
+Email: [safronovoleg1@gmail.com](mailto:safronovoleg1@gmail.com)  
+Telegram: [@safronov_oleg](https://t.me/safronov_oleg)  
+GitHub: [safronovlab](https://github.com/safronovlab)
 
-**Ready to discuss your project.**
-
-[![Telegram](https://img.shields.io/badge/Telegram-@safronov__oleg-0A0A0A?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/safronov_oleg)
-[![Email](https://img.shields.io/badge/Email-safronovoleg1@gmail.com-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:safronovoleg1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-safronovlab-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/safronovlab)
-
-</div>
-
-<sub>Oleg Safronov · Senior Backend · AI Integration · 2026</sub>
+Available for consulting, contract, and long-term backend or AI integration work.
