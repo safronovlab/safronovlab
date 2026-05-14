@@ -11,7 +11,7 @@ Currently focused on AI/LLM integration through the Anthropic Claude API, MCP se
 
 ---
 
-## Stack
+![Stack](https://img.shields.io/badge/STACK-0A0A0A?style=for-the-badge)
 
 | | |
 |---|---|
@@ -28,7 +28,7 @@ Currently focused on AI/LLM integration through the Anthropic Claude API, MCP se
 
 ---
 
-## Selected work
+![Selected Work](https://img.shields.io/badge/SELECTED_WORK-0A0A0A?style=for-the-badge)
 
 **[ai-gateway-poc](https://github.com/safronovlab/ai-gateway-poc)** — Async API gateway between business logic and LLM providers. Clean Architecture, FastAPI, encrypted credential storage, ~120 tests.
 
@@ -40,7 +40,7 @@ Five additional case studies (TaoScope, Forensic Production Incident Response, a
 
 ---
 
-## Reviews
+![Reviews](https://img.shields.io/badge/REVIEWS-0A0A0A?style=for-the-badge)
 
 **4 contracts · 5.0 average · 100% positive client reviews.**
 
@@ -52,7 +52,7 @@ Five additional case studies (TaoScope, Forensic Production Incident Response, a
 
 ---
 
-## Contact
+![Contact](https://img.shields.io/badge/CONTACT-FF3D2E?style=for-the-badge)
 
 Email: [safronovoleg1@gmail.com](mailto:safronovoleg1@gmail.com)  
 Telegram: [@safronov_oleg](https://t.me/safronov_oleg)  
