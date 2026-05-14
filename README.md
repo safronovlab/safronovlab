@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=48&duration=1&pause=99999&color=0A0A0A&center=true&vCenter=true&width=500&height=70&lines=OLEG+SAFRONOV" alt="Oleg Safronov" />
+<h1>Oleg Safronov</h1>
 
 ### Senior Backend · AI Integration
 
@@ -21,7 +21,6 @@
 ![4 years](https://img.shields.io/badge/4-YEARS_COMMERCIAL-0A0A0A?style=for-the-badge&labelColor=FF3D2E)
 ![4 contracts](https://img.shields.io/badge/4-CONTRACTS_5.0-0A0A0A?style=for-the-badge&labelColor=FF3D2E)
 ![4 countries](https://img.shields.io/badge/4-COUNTRIES-0A0A0A?style=for-the-badge&labelColor=FF3D2E)
-![5 projects](https://img.shields.io/badge/5-PROJECTS-0A0A0A?style=for-the-badge&labelColor=FF3D2E)
 
 **USA · United Kingdom · Canada · Poland**
 
